@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../bin-utils.h"
+#include "../bit-utils.h"
 
 // Demonstrate some basic assertions.
 TEST(BitUtilsTest, BasicBehaviorWorks) {

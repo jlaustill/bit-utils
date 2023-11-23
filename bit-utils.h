@@ -2,8 +2,8 @@
 // Created by jlaustill on 11/23/23.
 //
 
-#ifndef BIT_UTILS_BIN_UTILS_H
-#define BIT_UTILS_BIN_UTILS_H
+#ifndef BIT_UTILS_BIT_UTILS_H
+#define BIT_UTILS_BIT_UTILS_H
 
 #include <climits>
 
@@ -19,4 +19,4 @@ unsigned getNBits(unsigned value, unsigned offset, unsigned n)
     return value & mask;
 }
 
-#endif //BIT_UTILS_BIN_UTILS_H
+#endif //BIT_UTILS_BIT_UTILS_H

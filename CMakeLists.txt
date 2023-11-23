@@ -4,5 +4,5 @@ project(bit-utils)
 
 
 add_subdirectory(tests)
-add_library(bit-utils bin-utils.h
-        bin-utils.cpp)
+add_library(bit-utils bit-utils.h
+        bit-utils.cpp)
