@@ -1,0 +1,47 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/jlaustill/repo/bit-utils/include",
+                "/home/jlaustill/repo/bit-utils/src",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/Unity/src",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googlemock",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googlemock/include",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googletest",
+                "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googletest/include",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/jlaustill/repo/bit-utils/include",
+                    "/home/jlaustill/repo/bit-utils/src",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/Unity/src",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googlemock",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googlemock/include",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googletest",
+                    "/home/jlaustill/repo/bit-utils/.pio/libdeps/latest_stable/googletest/googletest/include",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                ""
+            ],
+            "cppStandard": "c++11",
+            "compilerPath": "/usr/bin/gcc",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
