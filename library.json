@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/jlaustill/bit-utils.git"
     },
-    "version": "1.0.3",
+    "version": "1.0.4",
     "frameworks": "*",
     "platforms": "*",
     "export": {
