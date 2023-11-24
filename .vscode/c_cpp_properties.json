@@ -34,6 +34,7 @@
             },
             "defines": [
                 "PLATFORMIO=60111",
+                "unitTesting",
                 ""
             ],
             "cppStandard": "c++11",
