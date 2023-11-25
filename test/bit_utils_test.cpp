@@ -1,6 +1,7 @@
-#include <gtest/gtest.h>
+// Copyright 2023 Joshua Austill
 
-#include "bit-utils.h"
+#include <bit-utils.h>
+#include <gtest/gtest.h>
 
 // Demonstrate some basic assertions.
 TEST(BitUtilsTest, getNBitsWorks) {

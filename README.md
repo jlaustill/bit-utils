@@ -7,14 +7,14 @@ unsigned getNOnes(unsigned n)
 
 This method will return a value with n 1's set
 ex.
-```unsigned result = getNBits(3); // 0b111```
+```unsigned result = getNOnes(3); // 0b111```
 
 ### getNOnesAt
 unsigned getNOnesAt(unsigned n, unsigned offset)
 
 This method returns n 1 at the offset provided
 ex.
-```unsigned result = getNBitsAt(3, 2); // 0b111000```
+```unsigned result = getNOnesAt(3, 2); // 0b111000```
 
 ### getMaxN
 unsigned getMaxN()
